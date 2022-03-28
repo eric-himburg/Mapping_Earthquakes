@@ -20,7 +20,7 @@ The Mapping Earthquakes web site was made with a combination of HTML, JavaScript
 
 ![js file showing code for creating the map and its layers](screenshots/me4.png)
 
-In order to get real-time data, an API is used to get data from the United States Geological Survey (USGS).  A sample of the JSON data retrieved is shown in the screenshot below.  This data is parsed and a portion of it is formatted and displayed on the map.  
+In order to get real-time earthquake information, GeoJSON data from the United States Geological Survey (USGS) is downloaded via a web link.  A sample of the JSON data retrieved is shown in the screenshot below.  This data is parsed and a portion of it is formatted and displayed on the map.  
 
 ![sample of USGS JSON earthquake data](screenshots/me5.png)
 
