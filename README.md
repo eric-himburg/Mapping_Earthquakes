@@ -16,3 +16,11 @@ Pop-ups have been bound to the markers which tell the magnitude and location of 
 ![pop-ups tell magnitude and location of each earthquake](screenshots/me3.png)
 
 ## Coding Examples
+The Mapping Earthquakes web site was made with a combination of HTML, JavaScript and CSS coding utilizing a Leaflet library and ultimately placed on a Mapbox map.  Below is a screenshot of some of the JavaScript coding where the map and its layers are being created.  
+
+![js file showing code for creating the map and its layers](screenshots/me4.png)
+
+In order to get real-time data, an API is used to get data from the United States Geological Survey (USGS).  A sample of the JSON data retrieved is shown in the screenshot below.  This data is parsed and a portion of it is formated and displayed on the map.  
+
+![sample of USGS JSON earthquake data](screenshots/me5.png)
+
