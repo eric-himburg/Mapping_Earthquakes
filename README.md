@@ -10,3 +10,9 @@ The completed web site plots the location of earthquakes that have occurred duri
 The upper right corner of the page includes options to choose between three types of maps: streetview, satellite, or navigation night. Additionally, there are options to toggle on or off 1) all earthquakes, 2) tectonic plate lines, and 3) major earthquake information data from the map.  A screenshot of the map below shows the "navigation night" map background has been chosen and the "all earthquakes" option has been turned off.  
 
 ![different map options selected on the mapping earthquakes web site](screenshots/me2.png)
+
+Pop-ups have been bound to the markers which tell the magnitude and location of each earthquake.  A screenshot of a selected marker is shown below.
+
+![pop-ups tell magnitude and location of each earthquake](screenshots/me3.png)
+
+## Coding Examples
